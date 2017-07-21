@@ -1,0 +1,16 @@
+# file = os.listdir("/home/mxqian/Projects/security_code/security_code_data")
+# for i in file:
+#     file1 = os.listdir("/home/mxqian/Projects/security_code/security_code_data/"+i)
+#     for j in file1:
+#         file2 = os.listdir("/home/mxqian/Projects/security_code/security_code_data/"+i+"/"+j)
+#         print(file2)
+#         for m in file2:
+#             labels = open("/home/mxqian/Projects/security_code/security_code_data/" + i + "/" + j + "/" + m +
+#                             "/labels.txt", 'w')
+#             file3 = os.listdir("/home/mxqian/Projects/security_code/security_code_data/"+i+"/"+j+"/"+m)
+#             try:
+#                 for n in file3:
+#                     if n != "labels.txt" and n != "Thumbs.db":
+#                         labels.writelines(n + '\r')
+#             finally:
+#                 labels.close()
