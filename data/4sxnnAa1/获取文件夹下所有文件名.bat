@@ -1,0 +1,1 @@
+DIR "C:\Users\shp\Desktop\CAPTCHA\4sxnnAa1/" /s /b > нд╪Чд©б╪.txt

@@ -1,0 +1,1 @@
+DIR "C:\Users\shp\Desktop\CAPTCHA\4nngn1/" /s /b > name.txt
