@@ -55,8 +55,8 @@ The sixth and subsequent mark characters: `A`  `a` `123`
 ![source](image/source.png)
 ![source](image/source2.png)
 ## Cut subimage samples
-### `8` cut result
-![8](image/8.png)
+### `B` cut result
+![B](image/B.png)
 ### `N` cut result
 ![N](image/N.png)
 # Contact
